@@ -1,5 +1,5 @@
 resource "ibm_is_vpc" "vpc1" {
-  name = "vpc1"
+  name = "vpc121"
 }
 
 /*resource "ibm_is_vpc_route" {
