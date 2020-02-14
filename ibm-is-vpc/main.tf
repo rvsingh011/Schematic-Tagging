@@ -1,5 +1,6 @@
 resource "ibm_is_vpc" "vpc1" {
   name = "vpc122"
+  tags = ["NewTag1","NewTag2"]
 }
 
 /*resource "ibm_is_vpc_route" {
