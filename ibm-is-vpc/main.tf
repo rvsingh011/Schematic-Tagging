@@ -1,6 +1,6 @@
 resource "ibm_is_vpc" "vpc1" {
   name = "vpc13"
-  tags = ["Tag10"]
+  tags = ["Tag1","Tag2"]
 }
 
 /*resource "ibm_is_vpc_route" {
