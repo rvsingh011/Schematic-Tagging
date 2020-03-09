@@ -1,5 +1,5 @@
 resource "ibm_is_vpc" "vpc1" {
-  name = "vpc16"
+  name = "vpc19"
   tags = ["Tag21","Tag22"]
 }
 
